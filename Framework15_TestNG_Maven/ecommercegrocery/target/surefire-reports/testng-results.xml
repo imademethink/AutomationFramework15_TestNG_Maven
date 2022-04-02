@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="15765" started-at="2021-05-05T03:35:17Z" finished-at="2021-05-05T03:35:33Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="15765" started-at="2021-05-05T03:35:17Z" finished-at="2021-05-05T03:35:33Z">
+      <class name="my_fixtures.Commonsteps">
+        <test-method status="PASS" signature="CommonBeforeSuite()[pri:0, instance:my_fixtures.Commonsteps@c038203]" name="CommonBeforeSuite" is-config="true" duration-ms="32" started-at="2021-05-05T03:35:17Z" finished-at="2021-05-05T03:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommonBeforeSuite -->
+        <test-method status="PASS" signature="CommonBeforeTest()[pri:0, instance:my_fixtures.Commonsteps@c038203]" name="CommonBeforeTest" is-config="true" duration-ms="1" started-at="2021-05-05T03:35:17Z" finished-at="2021-05-05T03:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommonBeforeTest -->
+        <test-method status="PASS" signature="CommonAfterTest()[pri:0, instance:my_fixtures.Commonsteps@c038203]" name="CommonAfterTest" is-config="true" duration-ms="1" started-at="2021-05-05T03:35:33Z" finished-at="2021-05-05T03:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommonAfterTest -->
+        <test-method status="PASS" signature="CommonAfterSuite()[pri:0, instance:my_fixtures.Commonsteps@c038203]" name="CommonAfterSuite" is-config="true" duration-ms="1" started-at="2021-05-05T03:35:33Z" finished-at="2021-05-05T03:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CommonAfterSuite -->
+      </class> <!-- my_fixtures.Commonsteps -->
+      <class name="com.flipcart.grocery.pkg21_Register.Register">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4]" name="beforeClass" is-config="true" duration-ms="6100" started-at="2021-05-05T03:35:17Z" finished-at="2021-05-05T03:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-05-05T03:35:23Z" finished-at="2021-05-05T03:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Register1()[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4]" name="Register1" duration-ms="4526" started-at="2021-05-05T03:35:23Z" finished-at="2021-05-05T03:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4]" name="afterMethod" is-config="true" duration-ms="3" started-at="2021-05-05T03:35:28Z" finished-at="2021-05-05T03:35:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Register1 status=SUCCESS method=Register.Register1()[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="Register2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4]" name="Register2" duration-ms="3701" started-at="2021-05-05T03:35:28Z" finished-at="2021-05-05T03:35:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bond]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[221 Baker Street]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc@xyz.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9876543210]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-05-05T03:35:28Z" finished-at="2021-05-05T03:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-05-05T03:35:31Z" finished-at="2021-05-05T03:35:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Register2 status=SUCCESS method=Register.Register2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.flipcart.grocery.pkg21_Register.Register@cc285f4]" name="afterClass" is-config="true" duration-ms="1388" started-at="2021-05-05T03:35:31Z" finished-at="2021-05-05T03:35:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.flipcart.grocery.pkg21_Register.Register -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

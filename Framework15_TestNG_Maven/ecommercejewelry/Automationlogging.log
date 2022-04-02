@@ -1,0 +1,62 @@
+2020-07-11 17:34:00 INFO  Commonsteps                                       :13 - =CommonBeforeSuite==
+2020-07-11 17:34:00 INFO  Commonsteps                                       :26 - ==CommonBeforeTest==
+2020-07-11 17:34:08 INFO  StepDef_Login                                     :35 - Log: Navigating to http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:34:13 INFO  StepDef_Login                                     :42 - Log: Attempting to login with valid credentials
+2020-07-11 17:34:16 INFO  StepDef_Login                                     :58 - Log: Login is successful
+2020-07-11 17:34:16 INFO  Commonsteps                                       :31 - ==CommonAfterTest==
+2020-07-11 17:34:16 INFO  Commonsteps                                       :18 - =CommonAfterSuite==
+2020-07-11 17:34:41 INFO  Commonsteps                                       :13 - =CommonBeforeSuite==
+2020-07-11 17:34:41 INFO  Commonsteps                                       :26 - ==CommonBeforeTest==
+2020-07-11 17:34:47 INFO  StepDef_Login                                     :35 - Log: Navigating to http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:34:53 INFO  StepDef_Login                                     :42 - Log: Attempting to login with valid credentials
+2020-07-11 17:34:56 INFO  IRetryAnalyzer                                    :17 - Retrying test run_cukes with status FAILURE for the 2 time(s).
+2020-07-11 17:35:02 INFO  StepDef_Login                                     :35 - Log: Navigating to http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:35:07 INFO  StepDef_Login                                     :42 - Log: Attempting to login with valid credentials
+2020-07-11 17:35:12 INFO  Commonsteps                                       :31 - ==CommonAfterTest==
+2020-07-11 17:35:12 INFO  Commonsteps                                       :18 - =CommonAfterSuite==
+2020-07-11 17:35:47 INFO  Commonsteps                                       :13 - =CommonBeforeSuite==
+2020-07-11 17:35:47 INFO  Commonsteps                                       :26 - ==CommonBeforeTest==
+2020-07-11 17:35:56 INFO  StepDef_Login                                     :35 - Log: Navigating to http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:36:03 INFO  StepDef_Login                                     :42 - Log: Attempting to login with valid credentials
+2020-07-11 17:36:06 INFO  IRetryAnalyzer                                    :17 - Retrying test run_cukes with status FAILURE for the 2 time(s).
+2020-07-11 17:36:14 INFO  StepDef_Login                                     :35 - Log: Navigating to http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:36:20 INFO  StepDef_Login                                     :42 - Log: Attempting to login with valid credentials
+2020-07-11 17:36:22 INFO  Commonsteps                                       :31 - ==CommonAfterTest==
+2020-07-11 17:36:22 INFO  Commonsteps                                       :18 - =CommonAfterSuite==
+2020-07-11 17:37:50 INFO  Commonsteps                                       :13 - =CommonBeforeSuite==
+2020-07-11 17:37:50 INFO  Commonsteps                                       :26 - ==CommonBeforeTest==
+2020-07-11 17:37:51 INFO  StepDef_Login                                     :73 - Log: Navigating to http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:37:51 INFO  StepDef_Login                                     :78 - Log: Attempting to login with valid credentials empty
+2020-07-11 17:37:51 INFO  StepDef_Login                                     :83 - Log: Login is successful empty
+2020-07-11 17:37:51 INFO  StepDef_Login                                     :91 - Log: This is empty2
+2020-07-11 17:37:51 INFO  StepDef_Login                                     :95 - Log: This is empty3
+2020-07-11 17:37:51 INFO  Commonsteps                                       :31 - ==CommonAfterTest==
+2020-07-11 17:37:51 INFO  Commonsteps                                       :18 - =CommonAfterSuite==
+2020-07-11 17:38:28 INFO  Commonsteps                                       :13 - =CommonBeforeSuite==
+2020-07-11 17:38:28 INFO  Commonsteps                                       :26 - ==CommonBeforeTest==
+2020-07-11 17:38:28 INFO  StepDef_Login                                     :73 - Log: Navigating to ==================================http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:38:28 INFO  StepDef_Login                                     :78 - Log: Attempting to login with valid credentials empty
+2020-07-11 17:38:28 INFO  StepDef_Login                                     :83 - Log: Login is successful empty
+2020-07-11 17:38:28 INFO  StepDef_Login                                     :91 - Log: This is empty2
+2020-07-11 17:38:28 INFO  StepDef_Login                                     :95 - Log: This is empty3
+2020-07-11 17:38:28 INFO  Commonsteps                                       :31 - ==CommonAfterTest==
+2020-07-11 17:38:28 INFO  Commonsteps                                       :18 - =CommonAfterSuite==
+2020-07-11 17:39:26 INFO  Commonsteps                                       :13 - =CommonBeforeSuite==
+2020-07-11 17:39:26 INFO  Commonsteps                                       :26 - ==CommonBeforeTest==
+2020-07-11 17:39:34 INFO  StepDef_Login                                     :35 - Log: Navigating to http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:39:39 INFO  StepDef_Login                                     :42 - Log: Attempting to login with valid credentials
+2020-07-11 17:39:43 INFO  StepDef_Login                                     :73 - Log: Navigating to 
+==================================
+http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:39:43 INFO  StepDef_Login                                     :78 - Log: Attempting to login with valid credentials empty
+2020-07-11 17:39:43 INFO  StepDef_Login                                     :83 - Log: Login is successful empty
+2020-07-11 17:39:43 INFO  IRetryAnalyzer                                    :17 - Retrying test run_cukes with status FAILURE for the 2 time(s).
+2020-07-11 17:39:49 INFO  StepDef_Login                                     :35 - Log: Navigating to http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:39:52 INFO  StepDef_Login                                     :42 - Log: Attempting to login with valid credentials
+2020-07-11 17:39:55 INFO  StepDef_Login                                     :73 - Log: Navigating to 
+==================================
+http://automationpractice.com/index.php?controller=authentication&back=my-account
+2020-07-11 17:39:55 INFO  StepDef_Login                                     :78 - Log: Attempting to login with valid credentials empty
+2020-07-11 17:39:55 INFO  StepDef_Login                                     :83 - Log: Login is successful empty
+2020-07-11 17:39:55 INFO  Commonsteps                                       :31 - ==CommonAfterTest==
+2020-07-11 17:39:55 INFO  Commonsteps                                       :18 - =CommonAfterSuite==

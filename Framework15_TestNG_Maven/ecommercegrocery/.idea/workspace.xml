@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbba8d7e-e14c-4679-8fb3-86a9a5d989d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="60" />
+    <option name="y" value="75" />
+    <option name="width" value="1705" />
+    <option name="height" value="925" />
+  </component>
+  <component name="ProjectId" id="1s6DUXE3jbLJ3ymihVBKLTc5uAO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowJob Explorer.ShowToolbar" value="false" />
+    <property name="ToolWindowProject Explorer.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.flipcart.grocery.pkg21_Register" />
+      <recent name="com.flipcart.grocery" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercegrocery\src\test\resources" />
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercegrocery" />
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercegrocery\src\test\java\com\flipcart\grocery" />
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercegrocery\src\test\java" />
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercegrocery\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml">
+    <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommercegrocery" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2_data_passing.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommercegrocery" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" />
+        <item itemvalue="TestNG.D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbba8d7e-e14c-4679-8fb3-86a9a5d989d1" name="Default Changelist" comment="" />
+      <created>1593343628272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593343628272</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 01h 21m 39s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 01h 24m 06s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 02h 59m 02s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 03h 00m 43s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 03h 06m 53s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 03h 10m 01s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 03h 11m 31s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 03h 12m 30s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 03h 13m 39s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercegrocery_testng2_data_passing_xml - 2020.07.18 at 03h 15m 20s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercegrocery/testng2_data_passing.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="132" width="587" height="534" key="find.popup" timestamp="1620184465642">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="389" y="132" width="587" height="534" key="find.popup/0.30.1366.738@0.30.1366.738" timestamp="1620184465642" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>oWrkSheet.getRow(nRowIndex).getLastCellNum()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oWrkSheet.getRow(nRowIndex)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nRowIndex</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ary2DExcelData[k][0]              = 9;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ary2DExcelData[k][0]              = k;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ary2DExcelData[k][0]              = k</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ary2DExcelData[k][0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

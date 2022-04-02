@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bc80d0f-2598-4e01-ae26-59f2043666be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="50" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1s8xzybkTvivhSFRzHlUAhBScMN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.flipcart.jewelry" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.flipcart.jewelry.pkg_stepdefinition" />
+      <recent name="com.flipcart.jewelry.pgk_testrunner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercejewelry\src\test\java\com\flipcart\jewelry" />
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercejewelry\src\test\resources\features" />
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercejewelry\src\test" />
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercejewelry\src\test\java" />
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercejewelry" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommercejewelry" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bc80d0f-2598-4e01-ae26-59f2043666be" name="Default Changelist" comment="" />
+      <created>1593627872830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593627872830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.02 at 02h 06m 25s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.02 at 02h 07m 05s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.02 at 02h 09m 34s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.02 at 02h 09m 53s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.02 at 02h 10m 08s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.02 at 02h 12m 14s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.02 at 02h 15m 22s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.02 at 02h 16m 25s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.03 at 01h 53m 00s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__TonyStark_Framework15_TestNG_Maven_ecommercejewelry_testng_xml - 2020.07.11 at 17h 35m 12s.xml">
+      <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercejewelry/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1620268684602">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1620268684602" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

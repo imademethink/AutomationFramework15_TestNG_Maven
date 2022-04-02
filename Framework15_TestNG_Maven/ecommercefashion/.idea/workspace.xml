@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="751703e3-ef85-4e52-9c18-afdd76a1afc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s0Y2gK8647uiI88c7alzWzBGXa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DemoMavenProject/ecommercefashion" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.flipcart.fashion" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework15_TestNG_Maven\ecommercefashion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PartyWear">
+    <configuration name="D:/TonyStark/Framework15_TestNG_Maven/ecommercefashion/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommercefashion" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartyWear" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ecommercefashion" />
+      <option name="PACKAGE_NAME" value="com.flipcart.fashion" />
+      <option name="MAIN_CLASS_NAME" value="com.flipcart.fashion.PartyWear" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PartyWear" />
+        <item itemvalue="TestNG.D:/TonyStark/Framework15_TestNG_Maven/ecommercefashion/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="751703e3-ef85-4e52-9c18-afdd76a1afc7" name="Default Changelist" comment="" />
+      <created>1593287918703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593287918703</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1620011998766">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1620011998766" />
+    <state width="1323" height="364" key="GridCell.Tab.0.bottom" timestamp="1620184149729">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="364" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1620184149729" />
+    <state width="1323" height="364" key="GridCell.Tab.0.center" timestamp="1620184149729">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="364" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1620184149729" />
+    <state width="1323" height="364" key="GridCell.Tab.0.left" timestamp="1620184149728">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="364" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1620184149728" />
+    <state width="1323" height="364" key="GridCell.Tab.0.right" timestamp="1620184149729">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1323" height="364" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1620184149729" />
+    <state x="163" y="30" key="SettingsEditor" timestamp="1620010893882">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="163" y="30" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1620010893882" />
+    <state x="65" y="30" key="new project wizard" timestamp="1620011218435">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="65" y="30" key="new project wizard/0.30.1366.738@0.30.1366.738" timestamp="1620011218435" />
+  </component>
+</project>
